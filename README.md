@@ -1,1 +1,1 @@
-# basics
+# Machine Learning basics assignment
